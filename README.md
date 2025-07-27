@@ -32,10 +32,15 @@ Designed an interactive energy monitoring solution aimed at identifying ineffici
 ---
 
 ### **📸 Visuals:**
-Here, you can upload the following images as part of your repository:
 
 - **Inefficient HVAC Usage Instances**
-- **HVAC System Efficiency Trends**
-- **Energy Usage Trends Visualization**
+  
+![Inefficient HVAC Usage Instances](Inneficient_Energy_Usage_Trends.png)
 
-These visuals illustrate the key findings of the analysis and will add a compelling visual element to your project on GitHub.
+- **HVAC System Efficiency Trends**
+  
+![HVAC System Efficiency Trends](HVAC_System_Efficiency.png)
+
+- **Energy Usage Trends Visualization**
+  
+![Energy Usage Trends Visualization](Energy_Usage_Trends_in_Building_Systems.png)
